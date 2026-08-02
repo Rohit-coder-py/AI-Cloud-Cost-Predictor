@@ -90,7 +90,7 @@ st.markdown(
     /* Panels */
     .panel {
         background: var(--surface);
-        border: 1px solid var(--border);
+        border: 2px solid var(--border);
         border-radius: 10px;
         padding: 1.6rem 1.8rem;
     }
